@@ -1,0 +1,7 @@
+asgiref==3.2.10
+cffi==1.14.2
+Django==3.1.2
+greenlet==0.4.13
+pytz==2020.1
+readline==6.2.4.1
+sqlparse==0.4.1
